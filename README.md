@@ -1,1 +1,1 @@
-# tcsnqt-
+# tcsnqt-  this is the top 75 question you should partice before tcs nqt exam
