@@ -22,7 +22,7 @@ public class smallest {
             arr[i] = sc.nextInt();
 
         }
-        System.out.print("the smallest element in the arr"+smallestelement(arr));
+        System.out.print("the smallest element in the arr:"+smallestelement(arr));
 
     }
 
