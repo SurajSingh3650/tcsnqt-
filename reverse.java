@@ -28,9 +28,9 @@ public class reverse {
 
         }
         // //solution 1
-        // for(int i=n-1;i>=0;i--){
-        // System.out.print(arr[i]+" ");
-        // }
+        for(int i=n-1;i>=0;i--){
+        System.out.print(arr[i]+" ");
+        }
         // solution 2
         int i = 0;
         int j = n - 1;
